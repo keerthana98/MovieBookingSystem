@@ -1,3 +1,3 @@
 # MovieBookingSystem
-Customers will be able to view movies - their ratings,reviews and trailers , choose seats and get billing information using an interactive
-UI.
+Customers can view movie showtimes, ratings, reviews and trailers. The project also has an innovative implementation on the seat matrix and billing system with an interactive
+User Interface.
